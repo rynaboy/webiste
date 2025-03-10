@@ -120,5 +120,78 @@
 				"type": "devicon"
 			}
 		]
+	},
+	{
+		"project": "Show information",
+		"url": "https://kousophearen.vercel.app/",
+		"repo": "Public",
+		"descriptionTitle": "Information",
+		"description": "To show the information social media.",
+		"imageOptions": [],
+		"images": [
+			{
+				"key": "mock-stack",
+				"hover": "right",
+				"h": "1200",
+				"w": "556",
+				"url": "/img/msc-mock_stack/03.png"
+			},
+			{
+				"key": "mock-stack",
+				"hover": "right",
+				"h": "1200",
+				"w": "556",
+				"url": "/img/msc-mock_stack/02.png"
+			},
+			{
+				"key": "mock-stack",
+				"hover": "left",
+				"h": "1200",
+				"w": "556",
+				"url": "/img/msc-mock_stack/01.png"
+			}
+		],
+		"stack": [
+			{
+				"key": "nodejs",
+				"name": "Node.js",
+				"type": "devicon"
+			},
+			{
+				"key": "nextjs",
+				"name": "Next.js",
+				"type": "devicon"
+			},
+			{
+				"key": "javascript",
+				"name": "JavaScript",
+				"type": "devicon"
+			},
+			{
+				"key": "html5",
+				"name": "HTML5",
+				"type": "devicon"
+			},
+			{
+				"key": "css3",
+				"name": "CSS3",
+				"type": "devicon"
+			},
+			{
+				"key": "sass",
+				"name": "SCSS",
+				"type": "devicon"
+			},
+			{
+				"key": "git",
+				"name": "Git(Hub)",
+				"type": "devicon"
+			},
+			{
+				"key": "tailwind",
+				"name": "Taolwind CSS",
+				"type": "devicon"
+			}
+		]
 	}
 ]
