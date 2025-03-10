@@ -40,7 +40,16 @@
 			{ "key": "laravel", 		"name": "Laravel", 		"type": "devicon" },
 			{ "key": "react", 		"name": "React", 		"type": "devicon" },
 			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{
+				"key": "jquery",
+				"name": "jQuery",
+				"type": "devicon"
+			},
+			{
+				"key": "mysql",
+				"name": "mySQL",
+				"type": "devicon"
+			},
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
@@ -116,7 +125,7 @@
 			},
 			{
 				"key": "tailwind",
-				"name": "Taolwind CSS",
+				"name": "Tailwind CSS",
 				"type": "devicon"
 			}
 		]
