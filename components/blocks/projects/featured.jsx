@@ -25,7 +25,7 @@ export default function FeaturedProject({ content }, index) {
 		if ( !inView ) { controls.start("hidden") }
 	}, [ controls, inView ] )
 
-	return (
+	return (	
 		<m.section 	
 			key={index}
 			className={css.project} 
@@ -37,6 +37,12 @@ export default function FeaturedProject({ content }, index) {
 			animate={controls} >
 			
 			<div className={css.details}>
+				<a
+					href={url}
+					target="_blank"
+					rel="noopener noreferrer"
+					className={css.projectHeader}
+				>
 				<div className={css.projectHeader}>
 					<div className={css.header}>
 						<h3 className="highlight">{project}</h3><span className={css.privateOr}><i className="devicon-github-plain"></i>{repo}</span>	
@@ -51,6 +57,7 @@ export default function FeaturedProject({ content }, index) {
 						<Icon icon={[ 'fad', 'arrow-right-to-bracket' ]} />
 					</m.div>
 				</div>
+				</a>
 			</div>
 
 			<div className={css.imageContainer}>
