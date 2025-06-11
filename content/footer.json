@@ -1,19 +1,9 @@
 {
 	"acknowledgments": [
-		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
-		},
-		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
+		{
+			"person": "x10hosting - Platform",
+			"link": "https://x10hosting.com/",
+			"note": "Host your own PHP, Laravel, Codeigntor or PHP Framework project for free!"
 		},
 		{ 
 			"person": "Vercel - Platform",
@@ -24,9 +14,9 @@
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "RYNA MOL",
+			"link": "https://assetmanagement.freelancelearn.biz/login",
+			"note": "Asset Software that using free or contact me about more info."
 		}
 	],
 
